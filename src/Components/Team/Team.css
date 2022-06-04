@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.team h3{
+    font-size:25px;
+    font-family:Poppins;
+    padding-top:10px;
+}
+.team-img{
+    height:250px;
+    width:100%;
+    object-fit:cover;
+}

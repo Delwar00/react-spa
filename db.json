@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Delwar Hossain",
+      "email": "delwar@gmail.com",
+      "username": "d10",
+      "phone": "01783220202",
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png",
+      "skill": "Mern Developer",
+      "fb": "#",
+      "in": "#",
+      "lin": "#",
+      "tw": "#"
+    },
+    {
+      "id": 2,
+      "name": "Kabir Hossain",
+      "email": "kabir@gmail.com",
+      "username": "k10",
+      "phone": "01783220203",
+      "photo": "https://billey.thememove.com/wp-content/uploads/2019/08/team-member-02.jpg",
+      "skill": "Python Developer",
+      "fb": "#",
+      "in": "#",
+      "lin": "#",
+      "tw": "#"
+    },
+    {
+      "id": 3,
+      "name": "Niyamul Hossain",
+      "email": "niyamul@gmail.com",
+      "username": "n10",
+      "phone": "01783220213",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLQoEtOfDFUBw5qWRgRr8jvAWbXDzvUNO3w&usqp=CAU",
+      "skill": "Djano Developer",
+      "fb": "#",
+      "in": "#",
+      "lin": "#",
+      "tw": "#"
+    },
+    {
+      "id": 4,
+      "name": "Najmul Hossain",
+      "email": "ajmul@gmail.com",
+      "username": "na10",
+      "phone": "01783221213",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7p2jBTOjhXpB22kJDec-6VKc2YUgCbR1RQ&usqp=CAU",
+      "skill": "Php Developer",
+      "fb": "#",
+      "in": "#",
+      "lin": "#",
+      "tw": "#"
+    },
+    {
+      "name": "Akbar",
+      "email": "akbar@gmail.com",
+      "phone": "432543534545",
+      "skill": "PHP",
+      "photo": "https://billey.thememove.com/wp-content/uploads/2019/08/team-member-01.jpg",
+      "lin": "#",
+      "in": "#",
+      "fb": "#",
+      "tw": "#",
+      "username": "dsafd",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background:black;
+    padding:20px 0;
+}
+.header img{
+    width:100px;
+
+}
+.menu ul{
+    list-style: none;
+    text-align: right;
+    margin-top:10px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    text-decoration: none;
+    padding:0 10px;
+    color:white;
+}
